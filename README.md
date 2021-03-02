@@ -21,4 +21,7 @@ Read me
 4)To generate the javadoc   
    a)ant -buildfile build.xml docs
 
+   * Instructor : Ron Coleman from Marist College (https://www.marist.edu/computer-science-math/faculty/ron-coleman)  
+   * Java Platform, Micro Edition (Java ME) : https://www.oracle.com/java/technologies/javameoverview.html
+
 
